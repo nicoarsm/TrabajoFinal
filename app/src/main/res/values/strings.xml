@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Trabajo Final Android</string>
+    <string name="empresa">Fast Food</string>
+    <string name="detalle">Detalle Sandwich</string>
+    <string name="sandwichesMenu">Sandwiches</string>
+    <string name="sandwiches">SANDWICHES</string>
+    <string name="sobre">SOBRE NOSOTROS</string>
+    <string name="chacarero">Chacarero</string>
+    <string name="barros">Barros Luco</string>
+    <string name="chemilico">Chemilico</string>
+    <string name="churrasco">Churrasco Italiano</string>
+    <string name="arrollado">De Arrollado Huaso</string>
+    <string name="precio">PRECIO: $</string>
+    <string name="descripcion">SOMOS UNA EMPRESA DE LA REGIÓN CON MÁS DE 10 AÑOS DE EXPERIENCIA
+        REALIZANDO SANDWICHES! LOS MEJORES DE LA ZONA, SI NO CHORREA NO ES FAST FOOD</string>
+
+    <!--CHACARERO-->
+    <string name="chacareroNombre">CHACARERO</string>
+    <string name="chacareroDescripcion">CONTIENE 400 GRAMOS DE CHURRASCO EN LAMINAS DELGADAS,
+        OCHO RODAJAS DE TOMATE,
+        1 TAZA DE POROTOS VERDES COCIDO Y AJI VERDE A PICADO A ELECCION.
+    </string>
+    <string name="chacareroPrecio">3000</string>
+
+    <!--BARROS LUCO-->
+    <string name="barrosNombre">BARROS LUCO</string>
+    <string name="barrosDescripcion">PAN FRICA O MARRAQUETA,
+        4 CHURRASCOS Y 4 REBANADAS DE QUESO CHANCO.
+    </string>
+    <string name="barrosPrecio">3500</string>
+
+    <!--CHEMILICO-->
+    <string name="chemilicoNombre">CHEMILICO</string>
+    <string name="chemilicoDescripcion">1/2 CEBOLLA EN PLUMA FRITA,
+        1 HUEVO FRITO,
+        1 BISTEC DELGADO,
+        1 MARRAQUETA, PAN AMASADO O FRICA
+    </string>
+    <string name="chemilicoPrecio">4500</string>
+
+    <!--CHURRASCO ITALIANO-->CHURRASCO ITALIANO
+    <string name="churrascoNombre">CHURRASCO ITALIANO</string>
+    <string name="churrascoDescripcion">2 PALTAS MADURAS, 2 TOMATES,
+        4 MARRAQUETAS, 4 BISTEC Y MAYONESA
+    </string>
+    <string name="churrascoPrecio">5000</string>
+
+    <!--ARROLLADO HUASO-->
+    <string name="arrolladoNombre">ARROLLADO DE HUASO</string>
+    <string name="arrolladoDescripcion">2 UNIDADES DE PAN AMASADO,
+        4 RODAJAS GRUESAS DE ARROLLADO HUASO CON AJI,
+        1 TOMATE, 2 CEBOLLAS EN ESCABECHE, RAMAS DE CILANTRO FRESCO Y MAYONESA.
+    </string>
+    <string name="arrolladoPrecio">2500</string>
+</resources>
